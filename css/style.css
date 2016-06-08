@@ -210,3 +210,20 @@ a.icon{
     text-shadow:2px 0px 4px #000;
     /*display:block;*/
 }
+
+.list-item{
+	font-size: 1rem;
+}
+
+.footer-text{
+	font-size: 0.8rem;
+	font-weight: bold;
+}
+
+#header .logos{
+	padding-top:25px;
+}
+
+.logos img{
+	width:200px;
+}
